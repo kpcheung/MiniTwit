@@ -2,6 +2,11 @@ package miniTwit;
 
 import java.awt.EventQueue;
 
+/**
+ * The Driver class creates a runnable instance of the MiniTwit program.
+ * @author K
+ *
+ */
 public class Driver {
 	static AdminCPanel cPanel = AdminCPanel.getInstance();
 	public static void main(String[] args) {
