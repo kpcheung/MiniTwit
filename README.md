@@ -1,2 +1,2 @@
 # MiniTwit
-OOPD Assignment 2: Mini Twit
+Twitter clone
