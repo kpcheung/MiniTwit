@@ -1,2 +1,2 @@
 # MiniTwit
-Twitter clone
+CS 356 Twitter clone
